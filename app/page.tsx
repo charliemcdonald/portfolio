@@ -34,12 +34,12 @@ export default function Home() {
                 </div>
               </div>
               <div id="cover_text" className="w-full lg:w-1/2 text-center flex flex-col justify-center items-center m-5">
-                <h3 className="text-5xl p-1">Hi, I'm <span className="text-5xl font-bold inline-block relative w-[max-content]
+                <h3 className="text-5xl p-1">Hi, I&apos;m <span className="text-5xl font-bold inline-block relative w-[max-content]
               before:absolute before:inset-0 before:animate-typewriter
               before:bg-white
               after:absolute after:inset-0 after:w-[0.125em] after:animate-caret
               after:bg-black">Charlie McDonald</span></h3>
-                <h1 className="p-2">I'm a sophomore at UC Berkeley majoring in Computer Science and Applied Math
+                <h1 className="p-2">I&apos;m a sophomore at UC Berkeley majoring in Computer Science and Applied Math
                 </h1>
                 <div id="hero_buttons" className="p-3">
                   <a href='/about'>
@@ -58,7 +58,7 @@ export default function Home() {
           </div>
 
           <div id="skills_container" className="flex flex-col text-center items-center py-[5rem] w-full bg-[#f2f2f2]">
-            <h3 className="text-4xl font-bold">I'm proficient in:</h3>
+            <h3 className="text-4xl font-bold">I&apos;m proficient in:</h3>
 
             <div id="skills" className="w-full flex flex-col lg:flex-row justify-center items-center *:mx-5">
               <div className="w-[300px] h-[300px] flex justify-center flex-col items-center">
@@ -89,7 +89,7 @@ export default function Home() {
             <div className="w-[80%] flex flex-col lg:flex-row my-10 lg:my-0 justify-around items-center">
               <div id="hobby_text" className="text-left ml-auto">
                 <p className="leading-loose text-left">
-                  I've been involved in musical theatre for over a decade, <br/>
+                  I&apos;ve been involved in musical theatre for over a decade, <br/>
                   and have performed both on stage and on screen. <br/> <br/>
 
                   Notable Roles Include: 
