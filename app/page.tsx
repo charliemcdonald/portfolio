@@ -101,7 +101,7 @@ export default function Home() {
                 </ul>
                 <p className="leading-loose text-left">
                   <br/>
-                  I make writeups documenting and reflecting on all my projects <br />
+                  I make writeups documenting and reflecting on my projects <br />
                   which I post on my website.
                 </p>
               </div>
