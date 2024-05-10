@@ -1,7 +1,7 @@
 import Navbar from "@/components/ui/navbar"
 import * as React from 'react';
 
-export default function Home() {
+export default function About() {
     return (
       <div className='w-full h-screen bg-white flex justify-center items-center'>
         <Navbar />
